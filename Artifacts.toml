@@ -1,152 +1,152 @@
 [[aws_c_compression]]
 arch = "aarch64"
-git-tree-sha1 = "d65ed51965e223042a7e7f7adf59f686b3a1e531"
+git-tree-sha1 = "654e0c96a2627c0afdc34e9507a560e8380ea8c6"
 os = "macos"
 
     [[aws_c_compression.download]]
-    sha256 = "00c412f5c326b4e900911fb6a79e3a43df2d35a6c8876c41c9fdae57cdd683f8"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "f6887c55d44fab81b9e9482510f20bb60a4cc10dae1fe2340befc2bcd471bc05"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.aarch64-apple-darwin.tar.gz"
 [[aws_c_compression]]
 arch = "aarch64"
-git-tree-sha1 = "3a0df7245cb381b9da0bf313a61ad7d0e18aa298"
+git-tree-sha1 = "37acf59e08c4013b7b665e2cd8b6f565e619565f"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "b16e774c4f83eb6b6a1eae3bb27e93e12ae312c21348ee0d0cc9d2002800e2f6"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "44fff8172a08bea0e4e389ca978825830b6d13c90b3d4095eeb63db7074acb3a"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.aarch64-linux-gnu.tar.gz"
 [[aws_c_compression]]
 arch = "aarch64"
-git-tree-sha1 = "77e7dd58a6e78f0e0dfe6e87a20596bc86af6f7a"
+git-tree-sha1 = "df8692e7721ea92b10f4b83e83721663215b3e15"
 libc = "musl"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "9561f55cf81818c669134d05515fde5714ebf73cc8e2c2b4a3b68a79f21d9476"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.aarch64-linux-musl.tar.gz"
+    sha256 = "40789350359a66e92fb0b49b1335fec3e7d56b9730216e533deba87f206f2b3c"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.aarch64-linux-musl.tar.gz"
 [[aws_c_compression]]
 arch = "aarch64"
-git-tree-sha1 = "4f122bbbd72891063765c6d742ea7f8df496bd7d"
+git-tree-sha1 = "47e7b16e2113ce63b2acb8497f86ea7c89dbab6a"
 os = "freebsd"
 
     [[aws_c_compression.download]]
-    sha256 = "e8749994ee32be146eaafdeeeec25b73d133741318c8bc523033372f9b63e659"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "176ba8ce0efb51f12a5ca81bf33a35a4b354dba72a4f4789771ebaaf72cfbb9e"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.aarch64-unknown-freebsd.tar.gz"
 [[aws_c_compression]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8449d1be08e786b9c9b648704cd72efabee41d1c"
+git-tree-sha1 = "997f28c328e6930458bebd9ea94e1c68e726184a"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "58266c9990c87c2d05930a0155e7d72205a36bc69d49598c4b5f8922b0fc7a89"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "c71e62965b584a87f521cc364574144135716661df22c128d69bfd9a4ec88afa"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.armv6l-linux-gnueabihf.tar.gz"
 [[aws_c_compression]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f8b29096ec69aa45e7f4796fd1089f2457f1ed46"
+git-tree-sha1 = "8a3edbe42568d787e5945bf4001b378803804358"
 libc = "musl"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "b4bd3453806bdb01ea63e1f266eee42db8475b26d780e8f2bfec4abd425b52d6"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "f85d56aff6f13dd8efbef9455990654dcd4171e5b86ba58469abaacd1f68a145"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.armv6l-linux-musleabihf.tar.gz"
 [[aws_c_compression]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "837b3206c4f74b292ebf4d833647df43bd6fc0fe"
+git-tree-sha1 = "d9d535fa88310c44f309f18012129519523c2555"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "4fcdf2d207196732fe871d1aaa376f7723d72a8064a90c9441dad06790b18df7"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "141d03c3201440c46a8768d5bc55d082c58dea720d28c2b9b326eb3e5149dfe4"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.armv7l-linux-gnueabihf.tar.gz"
 [[aws_c_compression]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8971eac7e310bbdc6106ea3489fe5620dd94afa7"
+git-tree-sha1 = "8cf11bef7036eeed7fa9bce5c6715e282e85ebd7"
 libc = "musl"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "9a0a4bae470b7b33ec5d784f5caedbf2052766502cdd3fd641b53a42df731032"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "f353574c739ee0a283d7c04c25bb7587b0d358c2bfe985652e379471410666a0"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.armv7l-linux-musleabihf.tar.gz"
 [[aws_c_compression]]
 arch = "i686"
-git-tree-sha1 = "50b72167bc5ec5ec9289c0c9a89c5002ef1616c9"
+git-tree-sha1 = "f936bc577c2755becdf91061fd36a3cbec64b806"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "0397f3ade37cd905b56d769f33876b7d9a99962396f9133ef1e1e5d747e0fe8d"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.i686-linux-gnu.tar.gz"
+    sha256 = "cbb12d7ebe8ec575dbc394d15d6a57a288a444a7f7ed4fc5e15853255a1987aa"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.i686-linux-gnu.tar.gz"
 [[aws_c_compression]]
 arch = "i686"
-git-tree-sha1 = "2c360f1e53803cabb4c0838d450fb4f430b8294a"
+git-tree-sha1 = "eae7b9b05bb299c71cd39ddeb1e003db083867c4"
 libc = "musl"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "9815638d66b7ee5a089945875b03648940e47f36f40aac97d0c77b29fc19fd77"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.i686-linux-musl.tar.gz"
+    sha256 = "0f926ef8872f46b566cb71ebbee3a59f89ba46b1b0f965bd6605463e05a3c1ed"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.i686-linux-musl.tar.gz"
 [[aws_c_compression]]
 arch = "powerpc64le"
-git-tree-sha1 = "56bbc702e9030ea17ce4b7154a0495623feab2f7"
+git-tree-sha1 = "81ab8e258ef9e61314e4e1f06352b8b1fd364287"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "1a7a2e0e5c367f4d85deac50087f69e1a15377c6bf609dc567d168f578ab3352"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "e86ff838d710febdc4b8ab59bcbc94ae4eba2ac773e21838d748880f6073aca5"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.powerpc64le-linux-gnu.tar.gz"
 [[aws_c_compression]]
 arch = "riscv64"
-git-tree-sha1 = "00821266b532581a32e766f7761f90a780be5229"
+git-tree-sha1 = "91a0b008788d84e33c566387735be6fbaf63467f"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "5c84bdbb84f3d9ee2ea250cfb2c598095663dd35cfb0976dab14a9d3e0b58d24"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.riscv64-linux-gnu.tar.gz"
+    sha256 = "1bdaad54e823eb886eb21cd639bf14492f6c1bc2946ce4f04e40dfaa0e9ae950"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.riscv64-linux-gnu.tar.gz"
 [[aws_c_compression]]
 arch = "x86_64"
-git-tree-sha1 = "ca338941a8885c7df2400152e837398088d80dfd"
+git-tree-sha1 = "7b96098aced574ffad65954778e7cec1e3f0a166"
 os = "macos"
 
     [[aws_c_compression.download]]
-    sha256 = "f68ab99a701727bc756218065855386b2fb40ae85d4bcd12147fab140d601433"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "8d2c9f383402d21ba32a8970e5ca0bf23f5c1eaacde49235f2bd71de5e84a950"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.x86_64-apple-darwin.tar.gz"
 [[aws_c_compression]]
 arch = "x86_64"
-git-tree-sha1 = "596eceb1b6558b66da51b88bded48a3d3de5d85a"
+git-tree-sha1 = "a4c048a3f4f737110aecf4eb9299ab1ec3b1a3af"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "4b4c25a658d4596a3004952b5326aa9859075a7185eb746d67cb1f9ef3649698"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "2d2c159ac7c612fb5c755b5c08049ed1cb4c5a628988199c0bb6a7dc339e67e1"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.x86_64-linux-gnu.tar.gz"
 [[aws_c_compression]]
 arch = "x86_64"
-git-tree-sha1 = "e3e5e1f44ebb78f316b1ee7d212bb08eb405916d"
+git-tree-sha1 = "8956e2507a93363fbc0d1e0fa8fe7d8ae10067c3"
 libc = "musl"
 os = "linux"
 
     [[aws_c_compression.download]]
-    sha256 = "6db829b49b253629202a6485fa83b19ba85865c6c7d597d35402d35b86f08bcd"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.x86_64-linux-musl.tar.gz"
+    sha256 = "8e24c73f2ca1dedc8c5ed81a537e9019bef8c13a5a2e376e13ddc63a182fc08d"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.x86_64-linux-musl.tar.gz"
 [[aws_c_compression]]
 arch = "x86_64"
-git-tree-sha1 = "0e0c9d10f2e30f7067a269f9b0fd4b9e1bf5bf13"
+git-tree-sha1 = "edfd337e2fc0e9a61b0c9a8ce48b49a9786ceada"
 os = "freebsd"
 
     [[aws_c_compression.download]]
-    sha256 = "934c46ae476a59f959f8983eda95e105a3274ae19c4d94e66b3f3c2e70f30e00"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "510d174779f8985273ad730762e17b1ea61bc2a4e9fcf9043918bb34c2634abe"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.x86_64-unknown-freebsd.tar.gz"
 [[aws_c_compression]]
 arch = "x86_64"
-git-tree-sha1 = "4ba05a77160f640c2e187d92825d77e25f713451"
+git-tree-sha1 = "11b6eb89eef5632df289d9708dee0da8aeadf138"
 os = "windows"
 
     [[aws_c_compression.download]]
-    sha256 = "0c6160e05503a6a7a8e1a9fe6416eecfb685e63cac65234e061896341212f4a3"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.2+0/aws_c_compression.v0.3.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "f85c3c43db607411cea806220fa95c4eca4bc845b92d91b5ddda76f376a59e4c"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_compression_jll.jl/releases/download/aws_c_compression-v0.3.3+0/aws_c_compression.v0.3.3.x86_64-w64-mingw32.tar.gz"
